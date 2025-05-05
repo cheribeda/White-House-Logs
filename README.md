@@ -22,11 +22,11 @@ and patterns in weekday activity. The objective is to demonstrate practical data
 ## 📁 Repository Structure
 
 📦 white-house-visitor-analysis
-    Beda.White House.ipynb       # Main Jupyter Notebook
-    visitor_logs.csv             # Dataset
-    charts/                      # (Optional) Saved image outputs
-    README.md                    # Project documentation
-    whitepaper.docx              # Supporting write-up 
+- **Beda.White House.ipynb**     # Main Jupyter Notebook
+- **visitor_logs.csv**           # Dataset
+- **charts**                     # Saved image outputs
+- **README.md**                  # Project documentation
+- **whitepaper.pdf**             # Supporting write-up 
 
 
 ## 📊 Sample Visuals
